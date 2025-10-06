@@ -40,12 +40,12 @@ I believe in building the future one line of code at a time, turning ideas into 
 <div align="center">
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-FFFFE0?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFE0)
-![Java](https://img.shields.io/badge/Java-FFFFE0?style=for-the-badge&logo=java&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFE0)
-![HTML5](https://img.shields.io/badge/HTML5-FFFFE0?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFE0)
+![C++](https://img.shields.io/badge/C%2B%2B-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-FFFF00?style=for-the-badge&logo=java&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE135?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-FFA500?style=for-the-badge&logo=css3&logoColor=000000)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-FFFFE0?style=for-the-badge&logo=react&logoColor=000000)
@@ -162,9 +162,9 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aagneshshifak)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) <!-- Replace with your LinkedIn URL -->  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Aagneshshifak)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFA500?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/) <!-- Replace with your LinkedIn URL -->  
+[![Email](https://img.shields.io/badge/Email-FFFF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:your-email@gmail.com)  
 
 </div>
 
@@ -173,7 +173,7 @@ Features: AI-powered missing person detection and alert system using advanced fa
 <div align="center">
 
 ### Fun Fact  
-*"Every algorithm I learn today is a tool for building tomorrow’s world!"*  
+*"Every algorithm I learn today is a tool for building tomorrow's world!"*  
 
 ---
 
