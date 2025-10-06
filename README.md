@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=8B5CF6&text=Aagnesh%20Shifack%20J%20A&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=header&fontSize=60" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FFD700&text=Aagnesh%20Shifack%20J%20A&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=header&fontSize=60" alt="Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Software+Engineer;🌟+Full+Stack+Developer+%7C+DSA+Learner;💻+Building+Production-Ready+Projects;📊+Exploring+Data+Science+%26+AI;🎯+FAANG-Level+Career+Goals" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Aspiring+Software+Engineer;+Full+Stack+Developer+%7C+DSA+Learner;+Building+Production-Ready+Projects;+Exploring+Data+Science+%26+AI;+FAANG-Level+Career+Goals" alt="Typing SVG" />
 
 </div>
 
@@ -178,7 +178,7 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8B5CF6&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=footer&fontSize=60" alt="Footer" />  
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FFD700&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=footer&fontSize=60" alt="Footer" />  
 
 **From [Aagneshshifak](https://github.com/Aagneshshifak)**  
 
