@@ -20,6 +20,14 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;🚀+Problem+Solver;🎯+DSA+Enthusiast;⚡+Building+the+Future" alt="About Me Typing" />
+
+</div>
+
+<div align="center">
+
 ```typescript
 const aagnesh = {
   pronouns: "he" | "him",
@@ -33,6 +41,42 @@ const aagnesh = {
   motto: "Think Big, Build Smart, Deliver Excellence"
 };
 ```
+
+</div>
+
+<div align="center">
+
+### 🎯 **Current Status**
+![Status](https://img.shields.io/badge/Status-Active%20Learning-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Mastering%20Algorithms-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)
+
+### 💡 **Key Highlights**
+- 🚀 **Problem Solver**: Turning complex challenges into elegant solutions
+- 🎯 **DSA Enthusiast**: Mastering algorithms and data structures
+- 💻 **Full-Stack Developer**: Building end-to-end applications
+- 🌟 **Production Ready**: Focus on scalable, maintainable code
+
+### 🛠️ **Tech Arsenal**
+<div align="center">
+
+![Languages](https://img.shields.io/badge/Languages-6%20Languages-8B5CF6?style=for-the-badge&logo=code&logoColor=white)
+![Frameworks](https://img.shields.io/badge/Frameworks-3%20Frameworks-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-2%20Databases-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tools](https://img.shields.io/badge/Tools-5%20Tools-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### 🎨 **Development Philosophy**
+> *"Think Big, Build Smart, Deliver Excellence"*
+
+<div align="center">
+
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+the+future+one+line+of+code+at+a+time;Turning+ideas+into+reality+with+clean+code;Creating+impact+through+technology" alt="Philosophy" />
+
+</div>
+
+</div>
 
 ---
 
