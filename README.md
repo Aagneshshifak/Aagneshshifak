@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=FFFFE0&text=Aagnesh%20shifak&textBg=false&fontAlignY=50&animation=twinkling" alt="Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFE0&center=true&vCenter=true&width=600&lines=+Aspiring+Software+Engineer;+Full+Stack+Developer+%7C+DSA+Learner;+Building+Production-Ready+Projects;+Exploring+Data+Science+%26+AI;+FAANG-Level+Career+Goals" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFE0&center=true&vCenter=true&width=600&lines=+Aspiring+Software+Engineer;+Full+Stack+Developer+%7C+DSA+Learner;+Building+Production-Ready+Projects;+Exploring+Data+Science+%26+AI;+MAANG-Level+Career+Goals" alt="Typing SVG" />
 
 </div>
 
