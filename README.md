@@ -71,27 +71,52 @@ I believe in building the future one line of code at a time, turning ideas into 
 
 <div align="center">
 
-### ExploreNow – Full-Stack Travel Booking Platform  
-**Stack:** React, Express.js, PostgreSQL, Prisma, JWT, Firebase  
-Features: Booking dashboard, admin analytics, AI trip recommender, and currency converter.  
+<table>
+<tr>
+<td width="50%">
 
----
+###  ExploreNow
+**Full-Stack Travel Booking Platform**
 
-### Public Transport Tracker  
-**Stack:** React, Node.js, MongoDB  
-Features: Real-time bus tracking with user dashboards and analytics.  
+**Stack:** React, Express.js, PostgreSQL, Prisma, JWT, Firebase
 
----
+**Features:** Booking dashboard, admin analytics, AI trip recommender, and currency converter.
 
-### Expense Tracker  
-**Stack:** Java, Maven, Spring Boot  
-Features: Personal finance management with budget tracking and expense categorization.  
+</td>
+<td width="50%">
 
----
+###  Public Transport Tracker
+**Real-time Bus Tracking System**
 
-### FaceAlert  
-**Stack:** Python, Buffalo Model, Computer Vision  
-Features: AI-powered missing person detection and alert system using advanced facial recognition.  
+**Stack:** React, Node.js, MongoDB
+
+**Features:** Real-time bus tracking with user dashboards and analytics.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+###  Expense Tracker
+**Personal Finance Management**
+
+**Stack:** Java, Maven, Spring Boot
+
+**Features:** Personal finance management with budget tracking and expense categorization.
+
+</td>
+<td width="50%">
+
+###  FaceAlert
+**AI-Powered Missing Person Detection**
+
+**Stack:** Python, Buffalo Model, Computer Vision
+
+**Features:** AI-powered missing person detection and alert system using advanced facial recognition.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -101,15 +126,26 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <div align="center">
 
-| Platform | Problems Solved | Status |
-|----------|----------------|---------|
-| **LeetCode** | 300+ | ✅ |
-| **CodeChef** | 250+ | ✅ |
-| **GeeksForGeeks** | 100+ | ✅ |
+<table>
+<tr>
+<td width="50%">
+
+| Platform | Problems Solved |
+|----------|----------------|
+| **LeetCode** | 300+ |
+| **CodeChef** | 250+ |
+| **GeeksForGeeks** | 100+ |
+
+</td>
+<td width="50%">
 
 **Hackathon Participation**  
 - **Built ExploreNow** as part of a team project.  
 - Active in coding platforms (CodeChef, LeetCode, CF).  
+
+</td>
+</tr>
+</table>
 
 </div>
 
