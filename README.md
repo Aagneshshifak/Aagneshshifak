@@ -78,21 +78,21 @@ Features: Booking dashboard, admin analytics, AI trip recommender, and currency 
 
 ---
 
-### 🎵 Mood-Based Music & UI App  
-**Stack:** Python, OpenCV, Spotify API  
-Features: Face-detection-powered mood recognition and auto playlist generator.  
-
----
-
 ### 🚎 Public Transport Tracker  
 **Stack:** React, Node.js, MongoDB  
 Features: Real-time bus tracking with user dashboards and analytics.  
 
 ---
 
-### 🏆 DSA Chatbot  
-**Stack:** Python, LLM API, React  
-An interactive chatbot that helps learners practice and solve DSA problems step-by-step.  
+### 💰 Expense Tracker  
+**Stack:** Java, Maven, Spring Boot  
+Features: Personal finance management with budget tracking and expense categorization.  
+
+---
+
+### 🔍 FaceAlert  
+**Stack:** Python, Buffalo Model, Computer Vision  
+Features: AI-powered missing person detection and alert system using advanced facial recognition.  
 
 </div>
 
@@ -104,10 +104,9 @@ An interactive chatbot that helps learners practice and solve DSA problems step-
 
 | Platform | Problems Solved | Status |
 |----------|----------------|---------|
-| **LeetCode** | 250+ | ✅ |
-| **CodeChef** | 150+ | ✅ |
-| **CodeForces** | 100+ | ✅ |
-| **GeeksForGeeks** | 60+ | ✅ |
+| **LeetCode** | 300+ | ✅ |
+| **CodeChef** | 250+ | ✅ |
+| **GeeksForGeeks** | 100+ | ✅ |
 
 🏆 **Hackathon Participation**  
 - **Built ExploreNow** as part of a team project.  
@@ -129,6 +128,18 @@ An interactive chatbot that helps learners practice and solve DSA problems step-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aagneshshifack&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />  
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagneshshifack&theme=dark&hide_border=true&area=true&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6&bg_color=0D1117" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Aagneshshifack&theme=dark&hide_border=true&show_icons=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0D1117" alt="Contributor Stats" />
 
 </div>
 
