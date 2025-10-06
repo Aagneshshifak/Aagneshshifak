@@ -180,6 +180,6 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8B5CF6&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=footer&fontSize=60" alt="Footer" />  
 
-**⭐ From [Aagneshshifak](https://github.com/Aagneshshifak)**  
+**From [Aagneshshifak](https://github.com/Aagneshshifak)**  
 
 </div>
