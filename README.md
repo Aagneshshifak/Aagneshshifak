@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aagneshshifack&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Aagneshshifack?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=Aagneshshifak&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Aagneshshifak?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/Aagneshshifack?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
@@ -120,26 +120,26 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aagneshshifack&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagneshshifack&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aagneshshifak&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagneshshifak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aagneshshifack&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aagneshshifak&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagneshshifack&theme=dark&hide_border=true&area=true&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagneshshifak&theme=dark&hide_border=true&area=true&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6&bg_color=0D1117" alt="Activity Graph" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Aagneshshifack&theme=dark&hide_border=true&show_icons=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0D1117" alt="Contributor Stats" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Aagneshshifak&theme=dark&hide_border=true&show_icons=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0D1117" alt="Contributor Stats" />
 
 </div>
 
@@ -163,7 +163,7 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aagneshshifack)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aagneshshifak)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) <!-- Replace with your LinkedIn URL -->  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
@@ -180,6 +180,6 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8B5CF6&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=footer&fontSize=60" alt="Footer" />  
 
-**⭐ From [Aagneshshifack](https://github.com/Aagneshshifack)**  
+**⭐ From [Aagneshshifak](https://github.com/Aagneshshifak)**  
 
 </div>
