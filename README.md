@@ -37,8 +37,6 @@ I believe in building the future one line of code at a time, turning ideas into 
 
 ## Tech Stack & Tools
 
-<div align="center">
-
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=000000)
@@ -62,8 +60,6 @@ I believe in building the future one line of code at a time, turning ideas into 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFE0)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFE0?style=for-the-badge&logo=github&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FFFFE0)
-
-</div>
 
 ---
 
