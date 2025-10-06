@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FFD700&text=Aagnesh%20Shifack%20J%20A&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=header&fontSize=60" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=FFFFE0&text=Aagnesh%20shifak&textBg=false&fontAlignY=50&animation=twinkling" alt="Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Aspiring+Software+Engineer;+Full+Stack+Developer+%7C+DSA+Learner;+Building+Production-Ready+Projects;+Exploring+Data+Science+%26+AI;+FAANG-Level+Career+Goals" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFE0&center=true&vCenter=true&width=600&lines=+Aspiring+Software+Engineer;+Full+Stack+Developer+%7C+DSA+Learner;+Building+Production-Ready+Projects;+Exploring+Data+Science+%26+AI;+FAANG-Level+Career+Goals" alt="Typing SVG" />
 
 </div>
 
@@ -10,9 +10,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aagneshshifak&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Aagneshshifak?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/Aagneshshifack?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-2-FFFFE0?style=for-the-badge&labelColor=000000)
+![GitHub followers](https://img.shields.io/github/followers/Aagneshshifak?style=for-the-badge&logo=github&color=FFFFE0&labelColor=000000)
 
 </div>
 
@@ -120,26 +119,26 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aagneshshifak&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagneshshifak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aagneshshifak&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFE0&text_color=FFFFFF&icon_color=FFFFE0&ring_color=FFFFE0&border_color=FFFFE0" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagneshshifak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFE0&text_color=FFFFFF&border_color=FFFFE0" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aagneshshifak&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aagneshshifak&theme=dark&hide_border=true&background=0D1117&stroke=FFFFE0&ring=FFFFE0&fire=FFFFE0&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFE0&sideLabels=FFFFE0&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagneshshifak&theme=dark&hide_border=true&area=true&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagneshshifak&theme=dark&hide_border=true&area=true&color=FFFFE0&line=FFFFE0&point=FFFFE0&area_color=FFFFE0&title_color=FFFFE0&bg_color=0D1117" alt="Activity Graph" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Aagneshshifak&theme=dark&hide_border=true&show_icons=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0D1117" alt="Contributor Stats" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Aagneshshifak&theme=dark&hide_border=true&show_icons=true&count_private=true&title_color=FFFFE0&icon_color=FFFFE0&bg_color=0D1117" alt="Contributor Stats" />
 
 </div>
 
@@ -149,7 +148,7 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 <div align="center">
 
-![Focusing](https://img.shields.io/badge/Status-Focusing-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)  
+![Focusing](https://img.shields.io/badge/Status-Focusing-FFFFE0?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)  
 
 **Currently Working On:** Full-Stack Development & Advanced DSA  
 **Learning:** Data Science, Graphs & Trees, System Design  
@@ -178,7 +177,7 @@ Features: AI-powered missing person detection and alert system using advanced fa
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FFD700&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=footer&fontSize=60" alt="Footer" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFD700&descAlign=0&textBg=true&fontAlignY=50&animation=twinkling&strokeWidth=0&reversal=false&section=footer&fontSize=60" alt="Footer" />  
 
 **From [Aagneshshifak](https://github.com/Aagneshshifak)**  
 
